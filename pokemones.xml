@@ -1,0 +1,17 @@
+<pokemones>
+  <pokemon>
+    <nombre>Pikachu</nombre>
+    <tipo>Electrico</tipo>
+    <nivel>10</nivel>
+  </pokemon>
+  <pokemon>
+    <nombre>Charmander</nombre>
+    <tipo>Fuego</tipo>
+    <nivel>8</nivel>
+  </pokemon>
+  <pokemon>
+    <nombre>Bulbasaur</nombre>
+    <tipo>Planta</tipo>
+    <nivel>7</nivel>
+  </pokemon>
+</pokemones>
