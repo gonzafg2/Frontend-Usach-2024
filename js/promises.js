@@ -40,8 +40,7 @@ import axios from "axios";
 const getPokeAxios = async () => {
   try {
     const response = await axios.get(URL);
-    const data = response.data.results;
-    return data;
+    return response.data.results;
   } catch (error) {
     console.error(error);
   }
